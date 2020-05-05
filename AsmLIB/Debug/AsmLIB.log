@@ -1,0 +1,42 @@
+﻿  Assembling asmLib.asm...
+asmLib.asm(6): error A2013: .MODEL must precede this directive
+asmLib.asm(8): error A2013: .MODEL must precede this directive
+asmLib.asm(9): error A2034: must be in segment block : ADFGXAsm
+asmLib.asm(10): error A2034: must be in segment block
+asmLib.asm(11): error A2034: must be in segment block
+asmLib.asm(12): error A2034: must be in segment block
+asmLib.asm(13): error A2034: must be in segment block
+asmLib.asm(14): error A2034: must be in segment block
+asmLib.asm(15): error A2034: must be in segment block
+asmLib.asm(16): error A2034: must be in segment block
+asmLib.asm(17): error A2034: must be in segment block
+asmLib.asm(18): error A2034: must be in segment block
+asmLib.asm(19): error A2034: must be in segment block
+asmLib.asm(20): error A2034: must be in segment block
+asmLib.asm(21): error A2034: must be in segment block
+asmLib.asm(22): error A2034: must be in segment block
+asmLib.asm(23): error A2034: must be in segment block
+asmLib.asm(24): error A2034: must be in segment block
+asmLib.asm(25): error A2034: must be in segment block
+asmLib.asm(26): error A2034: must be in segment block
+asmLib.asm(27): error A2034: must be in segment block
+asmLib.asm(28): error A2034: must be in segment block
+asmLib.asm(29): error A2034: must be in segment block
+asmLib.asm(30): error A2034: must be in segment block
+asmLib.asm(31): error A2034: must be in segment block
+asmLib.asm(32): error A2034: must be in segment block
+asmLib.asm(33): error A2034: must be in segment block
+asmLib.asm(34): error A2034: must be in segment block
+asmLib.asm(35): error A2034: must be in segment block
+asmLib.asm(36): error A2034: must be in segment block
+asmLib.asm(37): error A2034: must be in segment block
+asmLib.asm(38): error A2034: must be in segment block
+asmLib.asm(39): error A2034: must be in segment block
+asmLib.asm(40): error A2034: must be in segment block
+asmLib.asm(41): error A2034: must be in segment block
+asmLib.asm(42): error A2034: must be in segment block
+asmLib.asm(43): error A2034: must be in segment block
+asmLib.asm(44): error A2034: must be in segment block
+asmLib.asm(45): error A2034: must be in segment block
+asmLib.asm(46): fatal error A1010: unmatched block nesting : ADFGXAsm
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\asmLib.obj" /W3 /errorReport:prompt  /TaasmLib.asm" exited with code 1.

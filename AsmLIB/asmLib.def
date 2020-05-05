@@ -1,0 +1,4 @@
+;Eksportowanie funkcji w jêzyku asembler do biblioteki dll
+LIBRARY "asmLib"
+EXPORTS
+ADFGXAsm

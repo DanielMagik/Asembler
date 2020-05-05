@@ -1,0 +1,4 @@
+﻿  Assembling asmLib.asm...
+     Creating library C:\Users\Domi\source\repos\tutututu\Szyfrowanie\x64\Debug\AsmLIB.lib and object C:\Users\Domi\source\repos\tutututu\Szyfrowanie\x64\Debug\AsmLIB.exp
+LINK : warning LNK4075: ignoring '/LARGEADDRESSAWARE:NO' due to '/DLL' specification
+  AsmLIB.vcxproj -> C:\Users\Domi\source\repos\tutututu\Szyfrowanie\x64\Debug\AsmLIB.dll

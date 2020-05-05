@@ -1,0 +1,9 @@
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\obj\Release\GUI.Form1.resources
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\bin\Release\GUI.exe.config
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\bin\Release\GUI.exe
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\bin\Release\GUI.pdb
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\obj\Release\GUI.exe
+C:\Users\Domi\source\repos\tutututu\Szyfrowanie\GUI\obj\Release\GUI.pdb
